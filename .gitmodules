@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/nakanoi/wt4u_api/
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nakanoi/wt4u_front/
